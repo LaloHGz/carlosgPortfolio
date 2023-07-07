@@ -2,13 +2,13 @@ import Image from "next/image";
 
 export default function Biography() {
     return (
-        <div className="mt-28">
+        <div className="mt-16 lg:mt-28">
 
-            <h1 className='uppercase text-[6rem]'>
+            <h1 className='uppercase text-[4rem] lg:text-[6rem]'>
                 CARLOS GÓMEZ
             </h1>
 
-            <div className="flex flex-col mt-28 gap-4 lg:flex-row">
+            <div className="flex flex-col mt-16 lg:mt-28 gap-4 lg:flex-row">
                 <Image
                     width={500}
                     height={500}
