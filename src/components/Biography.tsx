@@ -8,7 +8,7 @@ export default function Biography() {
                 CARLOS GÓMEZ
             </h1>
 
-            <div className="flex mt-28 gap-4">
+            <div className="flex flex-col mt-28 gap-4 lg:flex-row">
                 <Image
                     width={500}
                     height={500}
