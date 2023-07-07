@@ -16,7 +16,7 @@ export default function Biography() {
                     src="/images/foto1.jpg" alt="."
                 />
                 <div className="flex flex-col justify-between">
-                    <p className="w-[70%] text-lg">
+                    <p className="w-[90%] lg:w-[70%] text-lg">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nostrum numquam ipsa fugiat cupiditate explicabo ratione enim quisquam hic exercitationem aut ea rerum impedit recusandae suscipit repellat praesentium consequatur dignissimos itaque cum commodi, saepe beatae. Vero nihil impedit quidem ipsam molestias consequatur hic perspiciatis, rem sit excepturi consectetur! Rem, nemo.
                     </p>
                     
